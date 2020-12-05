@@ -32,7 +32,7 @@ Trabalhamos conceitos importantes nessa jornada: lógica de programação, conex
 2. Abra o seu projeto e se certifique que as bibliotecas foram baixadas através do "pubspec.yaml".
 3. Execute o arquivo "main.dart" dentro da aplicação para debudar o projeto.
 
-Obs.: A aplicação mobilete utilizada neste projeto se encontra neste repositório: <a href="https://github.com/danhpaiva/project-stimulus-2020">Stimulus - Flutter</a>
+Obs.: A aplicação mobile utilizada neste projeto se encontra neste repositório: <a href="https://github.com/danhpaiva/project-stimulus-2020">Stimulus - Flutter</a>
 
 <h2 id=tecnologias>:toolbox: Tecnologias</h2>
 
