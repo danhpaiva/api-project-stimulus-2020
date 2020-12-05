@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-    Estimule o crescimento da sua empresa
+    API utilizada para o Projeto Estímulo 2020.
 </p>
 
 <p align="center">
