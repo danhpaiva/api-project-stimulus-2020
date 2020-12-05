@@ -22,7 +22,7 @@
 
 <h2 id=objetivo>:scroll: Objetivo</h2>
 
-Aqui você encontrará a API utilizada no projeto Estímulo 2020.
+Aqui você encontrará a API utilizada no projeto Estímulo 2020.<br>
 O objetivo foi construir uma API para ser utilizada na nossa aplicação mobile.<br> 
 Trabalhamos conceitos importantes nessa jornada: lógica de programação, conexão com banco de dados na nuvem.<br>
 
