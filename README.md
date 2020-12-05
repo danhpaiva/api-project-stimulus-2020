@@ -22,8 +22,9 @@
 
 <h2 id=objetivo>:scroll: Objetivo</h2>
 
-Este projeto tem como objetivo construir uma aplicação mobile utilizando Flutter.<br> 
-Trabalhamos com conceitos importantes: lógica de programação, conexão com banco de dados na nuvem, consumo de dados através de uma API.<br>
+Aqui você encontrará a API utilizada no projeto Estímulo 2020.
+O objetivo foi construir uma API para ser utilizada na nossa aplicação mobile.<br> 
+Trabalhamos conceitos importantes nessa jornada: lógica de programação, conexão com banco de dados na nuvem.<br>
 
 <h2 id=instalacao>:clipboard: Instalação</h2>
 
@@ -31,7 +32,7 @@ Trabalhamos com conceitos importantes: lógica de programação, conexão com ba
 2. Abra o seu projeto e se certifique que as bibliotecas foram baixadas através do "pubspec.yaml".
 3. Execute o arquivo "main.dart" dentro da aplicação para debudar o projeto.
 
-Obs.: A API utilizada neste projeto se encontra neste repositório: <a href="https://github.com/danhpaiva/api-project-stimulus-2020">Stimulus - API</a>
+Obs.: A aplicação mobilete utilizada neste projeto se encontra neste repositório: <a href="https://github.com/danhpaiva/project-stimulus-2020">Stimulus - Flutter</a>
 
 <h2 id=tecnologias>:toolbox: Tecnologias</h2>
 
