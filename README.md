@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="media/images/logo-2.png" width="200" alt="Stimulus">
+    <img src="images/API.png" width="300" alt="API Stimulus">
   </a>
 </p>
 <p align="center">
