@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-    API utilizada para o Projeto Estímulo 2020.
+    API utilizada no Projeto Estímulo 2020.
 </p>
 
 <p align="center">
